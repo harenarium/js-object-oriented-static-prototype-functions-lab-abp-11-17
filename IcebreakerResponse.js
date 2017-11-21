@@ -7,4 +7,8 @@ IcebreakerResponse.BatchCreate = function(data){
 }
 
 
+<<<<<<< HEAD
 //dont forget to include first return
+=======
+//dont forget to include first return
+>>>>>>> 13c9ab2de571f00449c9c9a7fb1e6ca6c5310e0c
